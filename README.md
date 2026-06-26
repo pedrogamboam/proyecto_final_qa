@@ -1,6 +1,6 @@
-\# Proyecto Final - QA Automation Testing  
+\# Proyecto Final - QA Automation Testing
 
-Pedro Gamboa  
+Pedro Gamboa
 
 26 Junio 2026
 
@@ -8,7 +8,7 @@ Pedro Gamboa
 
 \## Propósito
 
-Este proyecto automatiza pruebas funcionales de la aplicación \[SauceDemo](https://www.saucedemo.com) utilizando \*\*Selenium WebDriver\*\* y \*\*Pytest\*\*.  
+Este proyecto automatiza pruebas funcionales de la aplicación \[SauceDemo](https://www.saucedemo.com) utilizando \*\*Selenium WebDriver\*\* y \*\*Pytest\*\*.
 
 El objetivo es validar el flujo de login, navegación de productos y proceso de compra, asegurando calidad y confiabilidad en la aplicación.
 
@@ -38,7 +38,55 @@ El objetivo es validar el flujo de login, navegación de productos y proceso de 
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/pedrogamboam/proyecto\_final\_qa.git
+&#x20;  https://github.com/pedrogamboam/proyecto-final-automation-testing-pedro-gamboa
+
+
+
+\## Estructura del proyecto
+
+
+
+proyecto\_final\_qa/
+
+data/            	Datos externos para pruebas
+
+features/        	Escenarios BDD
+
+logs/            	Archivos de ejecución
+
+page/            	Page Objects
+
+reports/         	Reportes HTML y capturas
+
+test/            	Casos de prueba con Pytest
+
+utils/           	Funciones auxiliares
+
+conftest.py      	Configuración global de Pytest
+
+pytest.ini       	Configuración de ejecución
+
+requirements.txt
+
+README.md
+
+
+
+\## Ejecución de pruebas
+
+
+
+Desde consola
+
+Ejecutar los tests manualmente con el siguiente comando:
+
+py -m pytest 
+
+
+
+Desde GitHub Actions
+
+Cada push a la rama main, GitHub Actions ejecutará automáticamente el workflow definido en .github/workflows/tests.yml.
 
 
 
