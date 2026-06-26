@@ -1,0 +1,18 @@
+2026-06-24 15:06:37,294 INFO talento tech - Inicializando driver con datos válido para test_cart
+2026-06-24 15:06:37,954 INFO talento tech - Validacion correcta prueba driver_logged
+2026-06-24 15:06:37,954 INFO talento tech - Iniciando test_agregar_producto_al_carrito
+2026-06-24 15:06:38,004 INFO talento tech - Producto agregado
+2026-06-24 15:06:38,022 INFO talento tech - Validacion correcta test_agregar_producto_al_carrito
+2026-06-24 15:06:40,759 INFO talento tech - Inicializando driver con datos válido para test_cart
+2026-06-24 15:06:41,400 INFO talento tech - Validacion correcta prueba driver_logged
+2026-06-24 15:06:41,403 INFO talento tech - Iniciando test_nombre_primer_producto
+2026-06-24 15:06:41,422 INFO talento tech - Ingresando Nombre del primer producto
+2026-06-24 15:06:41,422 INFO talento tech - Validacion correcta test_nombre_primer_producto
+2026-06-24 15:06:44,163 INFO talento tech - Inicializando driver con datos válido para test_cart
+2026-06-24 15:06:44,806 INFO talento tech - Validacion correcta prueba driver_logged
+2026-06-24 15:06:44,807 INFO talento tech - Iniciando test_ir_al_carrito
+2026-06-24 15:06:44,860 INFO talento tech - Navegacion al carrito realizada
+2026-06-24 15:06:44,863 INFO talento tech - Validacion correcta redireccion al carrito
+2026-06-24 15:06:44,872 INFO talento tech - Obtenido Nombre de inventario
+2026-06-24 15:06:44,881 INFO talento tech - Obtenido Nombre de carrito
+2026-06-24 15:06:44,881 INFO talento tech - Validacion correcta test_carrito

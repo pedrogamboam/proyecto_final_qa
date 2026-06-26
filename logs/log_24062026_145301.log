@@ -1,0 +1,9 @@
+2026-06-24 14:53:02,984 INFO talento tech - Iniciando test_inventory_title
+2026-06-24 14:53:02,990 INFO talento tech - Obtenido titulo
+2026-06-24 14:53:02,990 INFO talento tech - Validacion correcta de prueba test_inventory_title
+2026-06-24 14:53:06,367 INFO talento tech - Iniciando test_productos_visibles
+2026-06-24 14:53:06,380 INFO talento tech - Contaje productos visibles
+2026-06-24 14:53:06,380 INFO talento tech - Validacion correcta de prueba test_productos_visibles
+2026-06-24 14:53:09,769 INFO talento tech - Iniciando test_ui_elements
+2026-06-24 14:53:09,787 INFO talento tech - Validacion correcta de prueba menu_visible
+2026-06-24 14:53:09,802 INFO talento tech - Validacion correcta de prueba filtro_visible

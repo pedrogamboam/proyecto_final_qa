@@ -1,0 +1,9 @@
+2026-06-24 15:16:40,589 INFO talento tech - Iniciando test_cart_json
+2026-06-24 15:16:40,589 INFO talento tech - Obteniendo productos desde products.JSON
+2026-06-24 15:16:40,602 INFO talento tech - Agregando producto al carrito
+2026-06-24 15:16:40,700 INFO talento tech - Agregando producto al carrito
+2026-06-24 15:16:40,876 INFO talento tech - Productos obtenidos en carrito
+2026-06-24 15:16:40,876 INFO talento tech - Producto encontrado en carrito
+2026-06-24 15:16:40,876 INFO talento tech - Validacion correcta test_cart.json
+2026-06-24 15:16:40,876 INFO talento tech - Producto encontrado en carrito
+2026-06-24 15:16:40,876 INFO talento tech - Validacion correcta test_cart.json

@@ -1,0 +1,12 @@
+2026-06-24 14:40:31,553 INFO talento tech - Iniciando test_login_cvs
+2026-06-24 14:40:31,553 INFO talento tech - Ejecutando login con credenciales de users.csv
+2026-06-24 14:40:32,283 INFO talento tech - Caso esperado: login correcto
+2026-06-24 14:40:32,289 INFO talento tech - Inicio correcto de sesion
+2026-06-24 14:40:35,053 INFO talento tech - Iniciando test_login_cvs
+2026-06-24 14:40:35,053 INFO talento tech - Ejecutando login con credenciales de users.csv
+2026-06-24 14:40:35,686 INFO talento tech - Caso esperado: login invalido
+2026-06-24 14:40:35,704 INFO talento tech - Inicio de sesion rechazado
+2026-06-24 14:40:38,471 INFO talento tech - Iniciando test_login_cvs
+2026-06-24 14:40:38,471 INFO talento tech - Ejecutando login con credenciales de users.csv
+2026-06-24 14:40:39,087 INFO talento tech - Caso esperado: login invalido
+2026-06-24 14:40:39,106 INFO talento tech - Inicio de sesion rechazado
